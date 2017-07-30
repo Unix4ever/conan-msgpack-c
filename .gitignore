@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+.DS_Store
+test_package/build
+conanbuildinfo.cmake
+conaninfo.txt
+*.pyc
+build
